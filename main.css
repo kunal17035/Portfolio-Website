@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;    
+}
+body{
+    width: 100%;
+    margin: 0;
+    height: 100%;
+}
+.logo-block{
+    margin: 5px;
+    text-align: center;
+    padding: 2%;
+    border: 2px grey solid;
+}
+.copyright-block {
+    position: fixed;;
+    bottom: 0vh;
+    width: 100%;
+    height: 10%;
+    background-color: black;
+}
+.copyright-block_copyright{
+    color: white;
+    text-align: center;
+}
